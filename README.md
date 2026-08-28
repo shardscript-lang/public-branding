@@ -39,6 +39,7 @@ For **commercial use inquiries**, official brand partnerships, or custom design 
 
 ## 📂 Repository Structure
 
-* `/logos` — Official ShardScript logos and icons (`.svg`, `.png`).
+* `/logos` — Official ShardScript logos (`.svg`, `.png`).
+* `/icons` — Official ShardScript icons (`.ico`, `.icns`).
 * `/banners` — High-resolution headers for documentation, socials, and blogs.
 * `/source-files` — Original Adobe Illustrator (`.ai`) master files for deep customization.
